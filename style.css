@@ -9,14 +9,14 @@ body {
 }
 
 header {
-    background-color: #343a40;
+    background-color: #070866;
     color: white;
     padding: 1em 0;
     text-align: center;
 }
 
 footer {
-    background-color: #343a40;
+    background-color: #070866fb;
     color: white;
     padding: 1em 0;
     text-align: center;
@@ -35,7 +35,7 @@ nav ul {
     margin: 0;
     display: flex;
     justify-content: center;
-    background-color: #343a40;
+    background-color: #070866fb;
 }
 
 nav ul li {
@@ -52,7 +52,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #495057;
+    background-color: #070866fb;
 }
 
 /* General UL Styling */
@@ -145,7 +145,7 @@ input[type="text"], input[type="email"], input[type="password"] {
 button {
     width: 100%;
     padding: 0.5em;
-    background-color: #343a40;
+    background-color: #070866fb;
     color: white;
     border: none;
     border-radius: 5px;
